@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 ,GOOD综合台
+http://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 ,GOOD生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+
+#EXTINF:-1 ,GOOD真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+
+#EXTINF:-1 ,GOOD共享观点
+http://live.streamingfast.net/osmflivech5.m3u8
+
+#EXTINF:-1 ,GOOD爱+好医生
+http://live.streamingfast.net/osmflivech9.m3u8
+
+#EXTINF:-1 ,GOOD美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
+
+#EXTINF:-1 ,GOOD健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+
+#EXTINF:-1 ,GOOD卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+
+#EXTINF:-1 ,GOOD烤箱读书会
+http://live.streamingfast.net/osmflivech44.m3u8
+
+#EXTINF:-1 ,香港电台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1 ,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,英国MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 ,英国Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 ,英国Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+
+#EXTINF:-1 ,高清时装台WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+ 
+
+#EXTINF:-1 ,TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8 
